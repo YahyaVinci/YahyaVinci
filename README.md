@@ -12,9 +12,3 @@ AI & Data Science student and software engineer focused on backend systems, data
 - DevOps / Cloud: Docker, Kubernetes, Terraform, AWS, Azure, CI/CD
 - Tools: Git, PostgreSQL, Redis, Kafka, Prometheus, Grafana
 
-## Contact
-
-- yahya.bellmir-ext@cegelec.com
-
-This repository is intended for professional collaboration and engineering work.
-### 🔝 Top Contributed Repo
